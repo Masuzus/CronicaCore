@@ -1,0 +1,12 @@
+{
+  "name": "com.cronica.core",
+  "version": "0.0.1",
+  "displayName": "Cronica Core",
+  "description": "Cronica The core code used in game development",
+  "category": "Runtime",
+  "author": {
+    "name": "Masuzus Leisen",
+    "email": "zls199809@gmail.com",
+    "url": "https://www.cronica.games/"
+  }
+}
