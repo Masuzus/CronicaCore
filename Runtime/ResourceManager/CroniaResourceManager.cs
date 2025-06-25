@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace Cronica.Core.ResourceManager
 {
-    public static class ResourceManager
+    public static class CroniaResourceManager
     {
         // 用于跟踪每帧的资源加载情况
         private static Dictionary<string, int> _loadCountThisFrame = new Dictionary<string, int>();
