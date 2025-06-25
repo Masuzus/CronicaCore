@@ -8,5 +8,8 @@
     "name": "Masuzus Leisen",
     "email": "zls199809@gmail.com",
     "url": "https://www.cronica.games/"
+  },
+  "dependencies": {
+    "com.unity.addressables": "^1.22.3"
   }
 }
