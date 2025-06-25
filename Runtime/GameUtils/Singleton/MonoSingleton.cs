@@ -12,7 +12,7 @@ namespace Cronica.Core.GameUtils
             if (s_ist == null)
             {
                 var type = typeof(T);
-                var objects = FindObjectsOfType<T>();
+                var objects = FindObjectsByType<T>(FindObjectsInactive.Include, FindObjectsSortMode.None);
 
                 if (objects.Length > 0)
                 {
